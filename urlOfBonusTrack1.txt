@@ -1,0 +1,5 @@
+Para orden ascendente: http://localhost:8080/customers/sortedCustomers?sortBy=document&order=asc
+Para orden descendente: http://localhost:8080/customers/sortedCustomers?sortBy=document&order=desc
+
+http://localhost:8080/customers/sortedCustomers?sortBy=name&order=asc
+http://localhost:8080/customers/sortedCustomers?sortBy=name&order=desc
